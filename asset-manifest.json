@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio.in/static/css/main.5b16202c.css",
+    "main.js": "/portfolio.in/static/js/main.d2dddbf2.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio.in/static/js/453.ace21015.chunk.js",
+    "static/media/cutee.png": "/portfolio.in/static/media/cutee.f05acdd44421c4cfe645.png",
+    "static/media/RAJ-NANDANI-SINGH.pdf": "/portfolio.in/static/media/RAJ-NANDANI-SINGH.56392e85f1a38cddcfd5.pdf",
+    "static/media/butterfly.gif": "/portfolio.in/static/media/butterfly.16790891943ada77725a.gif",
+    "static/media/twitter.png": "/portfolio.in/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/insta.png": "/portfolio.in/static/media/insta.ac32ec0a111aeba03298.png",
+    "static/media/email.png": "/portfolio.in/static/media/email.9d4fb065e6679439a9a3.png",
+    "index.html": "/portfolio.in/index.html",
+    "main.5b16202c.css.map": "/portfolio.in/static/css/main.5b16202c.css.map",
+    "main.d2dddbf2.js.map": "/portfolio.in/static/js/main.d2dddbf2.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio.in/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b16202c.css",
+    "static/js/main.d2dddbf2.js"
+  ]
+}
